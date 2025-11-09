@@ -1,6 +1,6 @@
 # Speeding up training with Triton and FP8 / Ускоряем обучения за счёт Triton и FP8
 
-This repository contains materials for the lecture on FP8 & Triton, part of the short course [course](https://llmscaling.yandex.com/en) on Scaling the LLM training, organized in collaboration with Yandex and [Yandex School of Data Analysis](https://dataschool.yandex.com/).
+This repository contains materials for the lecture on FP8 & Triton, part of the short [course](https://llmscaling.yandex.com/en) on Scaling the LLM training, organized in collaboration with Yandex and [Yandex School of Data Analysis](https://dataschool.yandex.com/).
 
 
 ## Local setup
